@@ -2,6 +2,20 @@
   --jumbotron-padding-y: 3rem;
 }
 
+.navbar {
+  color: #fff;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.top-gif {
+  padding-top: 50px;
+}
+.top-gif img {
+  width: 100%;
+  vertical-align: top;
+}
+
 .jumbotron {
   padding-top: var(--jumbotron-padding-y);
   padding-bottom: var(--jumbotron-padding-y);
