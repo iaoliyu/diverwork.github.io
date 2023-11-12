@@ -1,6 +1,6 @@
 ![image](https://github.com/iaoliyu/diverwork.github.io/assets/143608586/e58fe1ed-35ea-4068-b08a-e76ca7f72374)![image](https://github.com/iaoliyu/diverwork.github.io/assets/143608586/636460db-734b-4764-bc3c-f0d65cfb4cb7)Diver work
 Tenth Week Schedule
-The group held a meeting at 1:30 p.m. on 20 October. This week we optimized the details of the project design and discussed each section with our mentor.
+The group held a meeting at 1:30 p.m. on 3 November. This week we optimized the details of the project design and discussed each section with our mentor.
 1. ** Opening Equipment: ** This week I mainly analyzed the cutting force situation, is expected to need 3 kW power of the motor, considering that the volume of the motor may be too large, so the need to replace the power source.
 <img src="src/1699178117057.png" alt="keainie" />
 2. ** Robotic Arm End-effector** The output flange of the drive motor drives the screw 1 to rotate, the moving nut 2 on the screw 2 can do linear reciprocating movement on the screw, and the moving nut drives the opening and closing of the finger 4 through the finger pull rod 3.
